@@ -140,8 +140,7 @@ Loan_Default_PD_Model/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── train.csv
-│   └── test.csv (optional)
+│   └──  Link to original dataset
 │
 └── images/
     ├── roc_curve.png
